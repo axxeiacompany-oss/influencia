@@ -1,0 +1,6 @@
+{
+  "name": "Método Influência Milionária - Edição Masterclass",
+  "description": "Edição aprofundada e interativa do Método Influência Milionária com leitor premium, caderno de exercícios integrado, gerador de ganchos e exportação para PDF profissional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
